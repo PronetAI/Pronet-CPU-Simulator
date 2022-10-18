@@ -1,5 +1,5 @@
 # Pronet-CPU-Simulator
-The pronet CPU simulator is an easy to easy CPU that mainly used as a calculator, and you can access its memory.
+The pronet CPU simulator is an easy to use CPU that mainly used as a calculator, and you can access its memory.
 
 Pronet CPU simulator commands
 
